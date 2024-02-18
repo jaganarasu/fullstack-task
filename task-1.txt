@@ -1,0 +1,9 @@
+Hi there.,
+check the two blog links below
+
+1. Understanding JavaScript Objects and Their Internal Representation [https://medium.com/@jaganarasu.aj/understanding-javascript-objects-and-their-internal-representation-56fb6a1a7113]
+2. A Tale of HTTP/1.1 and HTTP/2 [https://medium.com/@jaganarasu.aj/a-tale-of-http-1-1-and-http-2-293fc311700b]
+
+
+
+
