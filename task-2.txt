@@ -1,0 +1,8 @@
+Hi there.,
+check the one blog links below
+
+1. Understanding the Difference Between Document and Window Objects in JavaScript
+     [https://medium.com/@jaganarasu.aj/understanding-javascript-objects-and-their-internal-representation-56fb6a1a7113]
+ 
+
+
