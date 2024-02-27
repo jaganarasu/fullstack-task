@@ -1,3 +1,5 @@
+//write a class to calculate the Uber price.
+
 class UberPriceCalculator {
     constructor() {
       this.baseFare = 60;
@@ -25,3 +27,8 @@ class UberPriceCalculator {
   
   const estimatedPriceINR = calculator.calculatePrice(distanceInKilometers, timeInMinutes);
   console.log(`Estimated Uber price in INR: ₹${estimatedPriceINR}`);
+
+
+
+// output
+//Estimated Uber price in INR: ₹205
